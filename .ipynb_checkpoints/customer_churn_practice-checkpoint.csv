@@ -1,0 +1,201 @@
+customer_id,age,gender,tenure_months,monthly_charges_usd,support_tickets_raised,contract_type,payment_method,total_spend_usd,will_churn
+CUST-1000,56.0,Female,8.0,84.98,1,One-Year,E-Wallet,647.89,0
+CUST-1001,69.0,Female,27.0,24.81,1,Month-to-Month,Credit Card,603.72,1
+CUST-1002,46.0,Male,27.0,114.91,3,Two-Year,Bank Transfer,3184.67,0
+CUST-1003,32.0,Male,34.0,108.67,2,Month-to-Month,,3745.27,1
+CUST-1004,,Female,21.0,46.09,3,Month-to-Month,E-Wallet,933.48,1
+CUST-1005,25.0,Male,30.0,21.53,6,One-Year,Credit Card,758.52,1
+CUST-1006,38.0,Male,33.0,113.34,2,Month-to-Month,E-Wallet,3789.31,1
+CUST-1007,56.0,Male,28.0,70.1,4,Month-to-Month,Bank Transfer,1946.56,1
+CUST-1008,36.0,Female,47.0,73.94,3,Month-to-Month,Bank Transfer,3350.21,1
+CUST-1009,40.0,Female,33.0,88.4,2,Month-to-Month,E-Wallet,3031.75,1
+CUST-1010,28.0,Female,5.0,81.59,0,Month-to-Month,Bank Transfer,,1
+CUST-1011,,Male,48.0,114.39,2,Month-to-Month,Bank Transfer,5408.45,1
+CUST-1012,41.0,Male,19.0,114.43,2,Month-to-Month,Bank Transfer,2225.3,1
+CUST-1013,53.0,Female,4.0,106.72,2,Month-to-Month,Bank Transfer,548.87,1
+CUST-1014,57.0,Female,35.0,83.64,1,One-Year,E-Wallet,2996.61,0
+CUST-1015,41.0,Female,49.0,100.09,3,Month-to-Month,Credit Card,4932.61,1
+CUST-1016,20.0,Female,17.0,87.72,2,Month-to-Month,Credit Card,1520.98,1
+CUST-1017,39.0,Male,44.0,77.34,2,Month-to-Month,Bank Transfer,3445.63,1
+CUST-1018,,Female,28.0,32.85,0,Month-to-Month,Credit Card,957.75,0
+CUST-1019,41.0,Male,30.0,101.12,2,One-Year,Credit Card,3047.66,0
+CUST-1020,61.0,Female,29.0,102.06,1,Month-to-Month,Bank Transfer,2964.95,1
+CUST-1021,47.0,Male,46.0,82.59,1,Month-to-Month,Bank Transfer,3796.01,0
+CUST-1022,55.0,Female,53.0,102.04,0,One-Year,Credit Card,5370.42,0
+CUST-1023,19.0,Female,6.0,85.15,3,One-Year,E-Wallet,496.87,1
+CUST-1024,38.0,Female,35.0,40.67,1,Month-to-Month,Bank Transfer,1338.8,0
+CUST-1025,50.0,Female,41.0,47.4,1,One-Year,,1938.48,0
+CUST-1026,29.0,Male,37.0,41.46,4,Two-Year,Credit Card,1484.59,0
+CUST-1027,39.0,Female,24.0,57.73,3,Month-to-Month,Bank Transfer,1330.34,1
+CUST-1028,61.0,Male,29.0,23.9,1,One-Year,E-Wallet,702.09,0
+CUST-1029,,Male,49.0,81.83,3,One-Year,Bank Transfer,,0
+CUST-1030,66.0,Male,46.0,53.66,2,Month-to-Month,Credit Card,2514.28,1
+CUST-1031,44.0,Male,53.0,85.57,0,Month-to-Month,E-Wallet,4456.68,0
+CUST-1032,59.0,Female,31.0,58.54,1,Month-to-Month,Credit Card,1765.26,0
+CUST-1033,45.0,Male,35.0,88.16,2,Two-Year,Credit Card,3132.64,0
+CUST-1034,,Male,33.0,54.06,1,Two-Year,Bank Transfer,1734.86,0
+CUST-1035,32.0,Male,52.0,46.07,2,One-Year,E-Wallet,,0
+CUST-1036,64.0,Female,21.0,69.6,3,Month-to-Month,Credit Card,1489.1,1
+CUST-1037,68.0,Female,32.0,89.29,3,One-Year,Credit Card,2808.86,0
+CUST-1038,61.0,Female,23.0,54.83,3,Month-to-Month,E-Wallet,1266.36,1
+CUST-1039,69.0,Female,33.0,113.66,3,Month-to-Month,Credit Card,3684.08,1
+CUST-1040,,Male,3.0,23.92,1,Month-to-Month,,41.69,1
+CUST-1041,54.0,Male,18.0,61.79,2,One-Year,,1128.21,0
+CUST-1042,68.0,Female,25.0,116.76,1,Month-to-Month,E-Wallet,2839.35,1
+CUST-1043,24.0,Male,42.0,74.8,1,One-Year,E-Wallet,3163.62,0
+CUST-1044,38.0,Male,31.0,62.35,0,Month-to-Month,E-Wallet,1931.87,0
+CUST-1045,26.0,Male,54.0,76.85,5,Month-to-Month,Bank Transfer,4177.52,1
+CUST-1046,56.0,Female,58.0,77.59,5,Month-to-Month,,4511.42,1
+CUST-1047,35.0,Female,3.0,93.16,2,Month-to-Month,Bank Transfer,347.69,1
+CUST-1048,21.0,Male,40.0,32.77,3,Two-Year,Bank Transfer,1317.06,0
+CUST-1049,42.0,Female,46.0,45.0,3,Month-to-Month,Bank Transfer,2048.53,1
+CUST-1050,31.0,Female,24.0,78.05,3,Two-Year,Credit Card,1879.31,0
+CUST-1051,67.0,Female,50.0,106.71,2,Month-to-Month,,5362.66,1
+CUST-1052,26.0,Female,32.0,76.19,1,One-Year,Bank Transfer,2440.52,0
+CUST-1053,43.0,Female,47.0,43.86,1,Month-to-Month,Credit Card,2063.45,0
+CUST-1054,19.0,Male,22.0,87.98,1,One-Year,Credit Card,,0
+CUST-1055,37.0,Female,23.0,93.99,0,One-Year,Credit Card,2128.62,0
+CUST-1056,45.0,Male,2.0,43.82,3,Month-to-Month,E-Wallet,17.51,1
+CUST-1057,64.0,Male,27.0,57.77,5,Month-to-Month,Credit Card,1647.27,1
+CUST-1058,,Female,42.0,73.43,3,Two-Year,,3021.87,0
+CUST-1059,61.0,Male,2.0,69.66,5,Two-Year,Bank Transfer,104.67,1
+CUST-1060,25.0,Male,26.0,58.96,3,Month-to-Month,Credit Card,1497.04,1
+CUST-1061,64.0,Male,17.0,49.76,3,One-Year,E-Wallet,890.67,0
+CUST-1062,52.0,Female,40.0,30.0,3,Two-Year,Credit Card,1185.25,0
+CUST-1063,31.0,Female,33.0,25.35,2,Two-Year,E-Wallet,898.94,0
+CUST-1064,34.0,Male,9.0,115.85,1,Two-Year,Credit Card,1008.98,0
+CUST-1065,53.0,Female,43.0,104.71,1,One-Year,Credit Card,4516.48,0
+CUST-1066,67.0,Female,54.0,55.49,2,Month-to-Month,Credit Card,2954.69,0
+CUST-1067,57.0,Female,48.0,115.68,1,Month-to-Month,Credit Card,5659.9,0
+CUST-1068,21.0,Female,39.0,87.68,6,Month-to-Month,E-Wallet,3360.14,1
+CUST-1069,19.0,Male,29.0,68.25,1,One-Year,E-Wallet,1994.74,0
+CUST-1070,23.0,Male,42.0,69.3,2,One-Year,,2942.29,0
+CUST-1071,59.0,Female,55.0,28.33,1,Month-to-Month,E-Wallet,1578.84,0
+CUST-1072,21.0,Female,26.0,29.17,2,Two-Year,Credit Card,749.16,0
+CUST-1073,46.0,Male,35.0,80.24,3,One-Year,Bank Transfer,2801.91,0
+CUST-1074,35.0,Male,50.0,75.37,2,Month-to-Month,Bank Transfer,3770.69,1
+CUST-1075,43.0,Female,25.0,41.27,4,Month-to-Month,Bank Transfer,1024.4,1
+CUST-1076,61.0,Male,24.0,114.62,2,Month-to-Month,Credit Card,2799.07,1
+CUST-1077,51.0,Female,13.0,98.13,1,Month-to-Month,E-Wallet,1386.22,1
+CUST-1078,27.0,Female,58.0,31.35,2,Month-to-Month,Credit Card,1790.43,0
+CUST-1079,53.0,Male,7.0,113.09,0,Month-to-Month,Bank Transfer,723.14,1
+CUST-1080,31.0,Male,57.0,117.42,2,Month-to-Month,Credit Card,6688.53,0
+CUST-1081,48.0,Female,36.0,119.59,0,Month-to-Month,Credit Card,4434.23,0
+CUST-1082,65.0,Female,45.0,25.59,2,Month-to-Month,,1111.37,1
+CUST-1083,32.0,Male,20.0,93.7,3,Month-to-Month,,1955.96,1
+CUST-1084,25.0,Female,1.0,74.59,0,One-Year,Bank Transfer,158.48,0
+CUST-1085,31.0,Male,8.0,90.58,0,Month-to-Month,Credit Card,,1
+CUST-1086,40.0,Female,46.0,116.87,2,Two-Year,Credit Card,5404.47,0
+CUST-1087,57.0,Male,16.0,88.8,1,Two-Year,E-Wallet,1502.22,0
+CUST-1088,38.0,Male,14.0,103.7,2,Month-to-Month,Credit Card,1432.84,1
+CUST-1089,,Male,12.0,106.69,1,Month-to-Month,Credit Card,1270.1,1
+CUST-1090,62.0,Female,51.0,103.85,3,Month-to-Month,Credit Card,5267.27,1
+CUST-1091,35.0,Female,23.0,62.61,2,Month-to-Month,E-Wallet,1389.29,1
+CUST-1092,64.0,Male,15.0,42.26,4,One-Year,Bank Transfer,601.44,1
+CUST-1093,41.0,Female,28.0,59.67,2,Month-to-Month,Bank Transfer,1609.56,1
+CUST-1094,43.0,Male,34.0,109.19,2,Month-to-Month,Credit Card,3714.16,1
+CUST-1095,,Male,2.0,34.66,1,Month-to-Month,,30.82,1
+CUST-1096,62.0,Female,32.0,71.33,2,Month-to-Month,E-Wallet,2294.25,1
+CUST-1097,58.0,Female,23.0,43.32,1,One-Year,E-Wallet,918.57,0
+CUST-1098,46.0,Male,22.0,78.13,3,Month-to-Month,Bank Transfer,1735.4,1
+CUST-1099,32.0,Female,51.0,106.31,2,Month-to-Month,Bank Transfer,5463.49,0
+CUST-1100,62.0,Female,25.0,108.04,1,Month-to-Month,,2601.31,1
+CUST-1101,18.0,Male,58.0,43.67,3,Two-Year,Bank Transfer,2551.56,0
+CUST-1102,,Male,22.0,110.77,2,Month-to-Month,Credit Card,2498.32,1
+CUST-1103,24.0,Female,58.0,79.19,3,Month-to-Month,Credit Card,4532.54,1
+CUST-1104,26.0,Male,58.0,55.02,3,One-Year,E-Wallet,3274.79,0
+CUST-1105,41.0,Male,22.0,90.82,1,Month-to-Month,E-Wallet,2018.99,1
+CUST-1106,18.0,Female,49.0,68.17,1,Two-Year,E-Wallet,3305.08,0
+CUST-1107,61.0,Male,52.0,57.8,3,One-Year,E-Wallet,3002.81,0
+CUST-1108,25.0,Male,42.0,90.51,5,One-Year,Bank Transfer,3829.34,1
+CUST-1109,41.0,Female,6.0,44.87,1,One-Year,E-Wallet,273.02,0
+CUST-1110,,Female,15.0,53.03,2,Two-Year,Bank Transfer,822.39,0
+CUST-1111,68.0,Male,54.0,63.45,6,Two-Year,E-Wallet,3380.27,1
+CUST-1112,34.0,Male,43.0,45.37,3,One-Year,Bank Transfer,,0
+CUST-1113,25.0,Female,37.0,60.52,1,One-Year,Credit Card,2168.55,0
+CUST-1114,52.0,Female,33.0,77.15,0,Month-to-Month,Bank Transfer,2540.39,0
+CUST-1115,52.0,Female,8.0,94.1,3,Month-to-Month,Bank Transfer,,1
+CUST-1116,50.0,Female,53.0,96.72,5,Month-to-Month,E-Wallet,5089.38,1
+CUST-1117,22.0,Male,44.0,102.28,2,Month-to-Month,Bank Transfer,4562.12,1
+CUST-1118,,Female,44.0,94.42,3,Month-to-Month,Credit Card,4209.05,1
+CUST-1119,56.0,Female,5.0,88.1,4,Month-to-Month,Credit Card,470.96,1
+CUST-1120,58.0,Male,39.0,43.75,3,Month-to-Month,E-Wallet,1651.63,1
+CUST-1121,45.0,Female,4.0,60.02,3,One-Year,Credit Card,224.26,1
+CUST-1122,24.0,Male,6.0,67.77,1,Two-Year,Bank Transfer,467.27,0
+CUST-1123,26.0,Female,45.0,28.29,2,Month-to-Month,Credit Card,1280.14,1
+CUST-1124,25.0,Female,32.0,72.84,6,Month-to-Month,E-Wallet,2446.85,1
+CUST-1125,29.0,Female,52.0,63.63,0,Two-Year,Bank Transfer,3328.43,0
+CUST-1126,51.0,Male,30.0,100.21,3,Month-to-Month,E-Wallet,3015.9,1
+CUST-1127,50.0,Male,47.0,117.79,1,One-Year,Bank Transfer,5520.67,0
+CUST-1128,65.0,Female,35.0,75.6,2,Month-to-Month,Credit Card,2652.68,1
+CUST-1129,40.0,Male,55.0,52.27,4,Month-to-Month,E-Wallet,2867.23,1
+CUST-1130,41.0,Male,40.0,24.34,2,Two-Year,E-Wallet,1009.01,0
+CUST-1131,54.0,Male,52.0,112.46,2,Month-to-Month,Bank Transfer,5895.76,0
+CUST-1132,52.0,Male,16.0,111.91,1,One-Year,E-Wallet,1751.26,0
+CUST-1133,61.0,Male,13.0,45.3,6,One-Year,Bank Transfer,522.34,1
+CUST-1134,57.0,Male,50.0,89.54,1,Month-to-Month,Bank Transfer,4385.19,0
+CUST-1135,39.0,Female,42.0,27.54,1,One-Year,Bank Transfer,1182.08,0
+CUST-1136,44.0,Female,30.0,36.62,1,Two-Year,Bank Transfer,1043.43,0
+CUST-1137,52.0,Male,19.0,41.68,3,Month-to-Month,Credit Card,684.28,1
+CUST-1138,18.0,Female,17.0,49.45,2,Two-Year,Bank Transfer,860.08,0
+CUST-1139,52.0,Female,56.0,119.58,2,Month-to-Month,,6821.13,0
+CUST-1140,54.0,Female,19.0,89.69,2,One-Year,Credit Card,1703.81,0
+CUST-1141,64.0,Female,28.0,58.42,0,One-Year,E-Wallet,1677.68,0
+CUST-1142,31.0,Male,58.0,93.71,0,Month-to-Month,Credit Card,5439.27,0
+CUST-1143,20.0,Female,55.0,111.53,1,Two-Year,Bank Transfer,6129.21,0
+CUST-1144,18.0,Female,26.0,115.87,0,Two-Year,Credit Card,3058.57,0
+CUST-1145,22.0,Male,37.0,25.79,4,One-Year,Credit Card,939.72,0
+CUST-1146,43.0,Male,26.0,59.45,1,One-Year,E-Wallet,1559.07,0
+CUST-1147,31.0,Female,53.0,30.68,8,One-Year,E-Wallet,1642.12,1
+CUST-1148,56.0,Female,23.0,53.57,1,Month-to-Month,Bank Transfer,1198.71,1
+CUST-1149,44.0,Female,9.0,36.97,1,One-Year,Credit Card,382.33,0
+CUST-1150,26.0,Female,12.0,84.68,4,Month-to-Month,Credit Card,1007.41,1
+CUST-1151,32.0,Female,53.0,58.83,0,Month-to-Month,Credit Card,3080.2,0
+CUST-1152,32.0,Female,1.0,42.94,2,One-Year,Bank Transfer,69.77,0
+CUST-1153,43.0,Male,58.0,46.59,3,Month-to-Month,Bank Transfer,2657.3,1
+CUST-1154,59.0,Female,58.0,56.03,3,Month-to-Month,Bank Transfer,3251.15,1
+CUST-1155,30.0,Female,1.0,45.99,2,Month-to-Month,Bank Transfer,45.53,1
+CUST-1156,68.0,Male,47.0,65.32,3,Month-to-Month,Bank Transfer,3124.33,1
+CUST-1157,49.0,Male,34.0,23.23,4,One-Year,E-Wallet,813.55,0
+CUST-1158,56.0,Male,32.0,47.98,3,Month-to-Month,Credit Card,1534.11,1
+CUST-1159,66.0,Male,54.0,61.12,2,One-Year,,3341.37,0
+CUST-1160,69.0,Female,48.0,80.28,1,Month-to-Month,Credit Card,3922.95,0
+CUST-1161,49.0,Female,25.0,47.1,1,One-Year,Credit Card,1205.39,0
+CUST-1162,21.0,Female,40.0,33.32,0,Month-to-Month,Credit Card,1333.32,0
+CUST-1163,47.0,Female,45.0,27.62,0,Month-to-Month,Credit Card,1177.31,0
+CUST-1164,54.0,Female,53.0,114.05,0,One-Year,Credit Card,5991.39,0
+CUST-1165,40.0,Female,1.0,61.66,0,Two-Year,Credit Card,46.4,0
+CUST-1166,56.0,Male,16.0,78.12,2,Month-to-Month,E-Wallet,1219.44,1
+CUST-1167,62.0,Female,39.0,111.92,1,Month-to-Month,Credit Card,4355.53,0
+CUST-1168,,Male,5.0,28.27,2,Month-to-Month,E-Wallet,144.18,1
+CUST-1169,60.0,Male,22.0,107.67,0,Month-to-Month,Bank Transfer,2395.22,0
+CUST-1170,46.0,Female,29.0,75.16,2,One-Year,,2176.12,0
+CUST-1171,,Male,55.0,36.48,2,Month-to-Month,Bank Transfer,2030.73,0
+CUST-1172,30.0,Female,3.0,61.13,1,Month-to-Month,Bank Transfer,186.61,1
+CUST-1173,49.0,Male,12.0,97.76,0,Month-to-Month,,1074.35,0
+CUST-1174,24.0,Female,26.0,68.04,1,Month-to-Month,E-Wallet,1722.07,1
+CUST-1175,68.0,Male,16.0,118.53,3,Month-to-Month,Bank Transfer,1889.28,1
+CUST-1176,39.0,Female,51.0,57.67,6,Month-to-Month,Bank Transfer,2880.69,1
+CUST-1177,45.0,Female,37.0,94.96,2,Month-to-Month,Bank Transfer,3543.52,1
+CUST-1178,19.0,Female,22.0,59.3,1,Month-to-Month,Credit Card,1381.14,1
+CUST-1179,59.0,Female,57.0,102.92,0,One-Year,,5927.38,0
+CUST-1180,62.0,Female,29.0,76.91,1,Month-to-Month,E-Wallet,2219.72,1
+CUST-1181,23.0,Male,14.0,26.35,4,Two-Year,E-Wallet,443.44,1
+CUST-1182,45.0,Male,28.0,23.68,3,Month-to-Month,Credit Card,,1
+CUST-1183,45.0,Male,5.0,33.39,4,One-Year,,150.1,1
+CUST-1184,,Female,47.0,21.37,2,One-Year,Credit Card,973.72,0
+CUST-1185,61.0,Male,49.0,27.54,4,One-Year,Bank Transfer,1334.34,0
+CUST-1186,37.0,Female,30.0,89.17,1,One-Year,Bank Transfer,2655.69,0
+CUST-1187,47.0,Female,46.0,73.43,1,Month-to-Month,E-Wallet,3386.3,0
+CUST-1188,28.0,Male,52.0,94.99,3,Month-to-Month,Credit Card,4947.51,1
+CUST-1189,45.0,Male,5.0,111.32,1,Month-to-Month,Credit Card,556.75,1
+CUST-1190,42.0,Female,12.0,78.51,1,Month-to-Month,,963.97,1
+CUST-1191,56.0,Male,16.0,92.61,2,Month-to-Month,Credit Card,1541.29,1
+CUST-1192,50.0,Female,26.0,95.71,2,Month-to-Month,Bank Transfer,2535.94,1
+CUST-1193,18.0,Female,26.0,57.79,5,One-Year,E-Wallet,,1
+CUST-1194,44.0,Female,48.0,44.11,4,Month-to-Month,E-Wallet,1989.58,1
+CUST-1195,69.0,Female,21.0,40.5,1,One-Year,Credit Card,897.22,0
+CUST-1196,30.0,Female,39.0,45.14,1,One-Year,E-Wallet,1692.12,0
+CUST-1197,58.0,Male,36.0,47.47,1,Two-Year,,1697.68,0
+CUST-1198,,Male,33.0,40.72,1,Month-to-Month,Credit Card,1285.25,0
+CUST-1199,56.0,Female,30.0,107.82,4,Month-to-Month,Credit Card,,1
